@@ -26,11 +26,6 @@ This project is a web-based notification system that fetches campus-related aler
 * logging_middleware : Logging functionality
 * notification_system_design.md : System design document
 
-## Deployment
-
-The application is deployed on Vercel.
-Link: https://vercel.com/ramkicr7s-projects/ra-2311004020171-v7qp/BerKKPuRGZmjru5jizBdopKmpdUs
-
 ## Demo Video
 
 The working demo video has been uploaded and included in the submission.
